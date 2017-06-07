@@ -1,7 +1,7 @@
 # Site settings
 title: Creativity in Coding
 header-img: img/home-bg.png
-email: jahdecook@yahoo.com
+email: jahdeofelia@gmail.com
 copyright_name: jahde17
 description: > # this means to ignore newlines until "baseurl:"
   Using code to feed your creative side while still problem-solving
@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jahde17
 learn_profile: jahde17
-email_username: jahdecook@yahoo.com
+email_username: jahdeofelia@gmail.com
 
 # Build settings
 markdown: kramdown
