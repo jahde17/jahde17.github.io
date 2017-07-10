@@ -1,10 +1,10 @@
 # Site settings
-title: Creativity in Coding
+title: A Writer's Look on Coding
 header-img: img/home-bg.png
 email: jahdeofelia@gmail.com
 copyright_name: jahde17
 description: > # this means to ignore newlines until "baseurl:"
-  Using code to feed your creative side while still problem-solving
+  How a creatively inclined writer goes about the code learning process
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jahde17
