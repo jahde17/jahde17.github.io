@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Why I Started Coding"
-date:   2017-06-14 16:15:57 -0400
+title:      "Why I Started Coding"
+date:       2017-06-14 16:15:57 -0400
+permalink:  why_i_started_coding
 ---
 
 
