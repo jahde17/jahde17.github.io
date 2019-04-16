@@ -1,15 +1,14 @@
 # Site settings
+author: Jahde Cook
 title: A Writer's Look on Coding
 header-img: img/home-bg.png
 email: jahdeofelia@gmail.com
-copyright_name: jahde17
+copyright_name: Jahde Cook
 description: > # this means to ignore newlines until "baseurl:"
   How a creatively inclined writer goes about the code learning process
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jahde17
-learn_profile: jahde17
-email_username: jahdeofelia@gmail.com
 
 # Build settings
 markdown: kramdown
